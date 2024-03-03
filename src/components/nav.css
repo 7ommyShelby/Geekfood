@@ -30,3 +30,10 @@ img{
     height: 30px;
 }
 
+li{
+    transition: all .4s ease;
+}
+
+li:hover{
+    color: blue;
+}
